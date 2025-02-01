@@ -28,12 +28,15 @@ Hi! I'm Abishek, a passionate Data Scientist who loves working with data, buildi
 
 ---
 
+📌 Projects
 Here are some cool projects I've worked on:
 
 🖼️ Image Recognition
+🔗 GitHub Repository
 😀 Emoji Recognition using SVM
+🔗 GitHub Repository
 🎙️ Gender-Based Audio Recognition using K-Means
----
+🔗 GitHub Repository
 
 ## 📫 Connect With Me
 
