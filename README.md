@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 
-Hi! I'm Abishek, a passionate Data Scientist who loves working with data, building machine learning models, and uncovering insights to drive impactful decisions. I enjoy solving complex problems and continuously learning new technologies in the AI & Data Science space.
+**Hi! I'm Abishek, a passionate Data Scientist who loves working with data, building machine learning models, and uncovering insights to drive impactful decisions. I enjoy solving complex problems and continuously learning new technologies in the AI & Data Science space.**
 
 🔹 Skilled in Python, SQL, and Machine Learning, Deep Learning
 
@@ -28,21 +28,21 @@ Hi! I'm Abishek, a passionate Data Scientist who loves working with data, buildi
 
 ---
 
-📌 Projects
+## 📌 Projects
 Here are some cool projects I've worked on:
 
-🖼️ Image Recognition
-🔗 GitHub Repository
-😀 Emoji Recognition using SVM
-🔗 GitHub Repository
-🎙️ Gender-Based Audio Recognition using K-Means
-🔗 GitHub Repository
+-   **🖼️ Image Recognition using SupportVectorMachine**
+🔗 github.com/Abishek2k04/Voice_Recognition_Gender_Based_K-Means
+-   **😀 Emoji Recognition using RandomForest**
+🔗 github.com/Abishek2k04/Image_recognition_SVM_Humans audio recog-
+-   **🎙️ Gender-Based Audio Recognition using K-Means**
+🔗 github.com/Abishek2k04/Emoji_Recognition_RandomForest
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/abishek2k04
-- GitHub: https://github.com/Abishek2k04
-- Email: abishekofficial204@gmail.com
+- **LinkedIn:** www.linkedin.com/in/abishek2k04
+- **GitHub:** https://github.com/Abishek2k04
+- **Email:** abishekofficial204@gmail.com
 
 Let's collaborate and build amazing things together! 🚀
 
