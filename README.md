@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 
-**Hi! I'm Abishek, a passionate Data Scientist who loves working with data, building machine learning models, and uncovering insights to drive impactful decisions. I enjoy solving complex problems and continuously learning new technologies in the AI & Data Science space.**
+**Hi! I'm Abishek, a passionate Data Scientist who loves working with data, building machine learning models, and uncovering insights to drive impactful decisions.  continuously learning new technologies in the AI & Data Science space.**
 
 🔹 Skilled in Python, SQL, and Machine Learning, Deep Learning
 
