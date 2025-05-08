@@ -20,11 +20,11 @@
 
 ## 🔧 Tech Stack
 
-- **Languages:** Python, SQL, R, C, SQL, HTML, CSS
-- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Languages:** Python, SQL, R, C
+- **Machine Learning:** Scikit-Learn, TensorFlow, 
+- **Data Analysis:** Pandas, NumPy, Matplotlib
 - **Databases:** MySQL, PostgreSQL, Oracle 
-- **Cloud & Tools:**  Git
+
 
 ---
 
@@ -32,10 +32,11 @@
 Here are some cool projects I've worked on:
 
 -   **🖼️ Image Recognition using SupportVectorMachine**
-🔗 github.com/Abishek2k04/Voice_Recognition_Gender_Based_K-Means
+🔗
 -   **😀 Emoji Recognition using RandomForest**
 🔗 github.com/Abishek2k04/Image_recognition_SVM_Humans audio recog-
 -   **🎙️ Gender-Based Audio Recognition using K-Means**
+🔗 github.com/Abishek2k04/Voice_Recognition_Gender_Based_K-Means
 🔗 github.com/Abishek2k04/Emoji_Recognition_RandomForest
 
 ## 📫 Connect With Me
