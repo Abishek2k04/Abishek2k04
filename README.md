@@ -1,6 +1,6 @@
 # Hi there, I'm Abishek! 👋
 
-🚀 **Data Science | AI Enthusiast | **
+🚀 **Data Science | AI Enthusiast**
 
 ---
 
