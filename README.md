@@ -32,12 +32,11 @@
 Here are some cool projects I've worked on:
 
 -   **🖼️ Image Recognition using SupportVectorMachine**
-🔗
+🔗 github.com/Abishek2k04/Image_recognition_SVM_Humans
 -   **😀 Emoji Recognition using RandomForest**
-🔗 github.com/Abishek2k04/Image_recognition_SVM_Humans audio recog-
+🔗 github.com/Abishek2k04/Emoji_Recognition_RandomForest 
 -   **🎙️ Gender-Based Audio Recognition using K-Means**
 🔗 github.com/Abishek2k04/Voice_Recognition_Gender_Based_K-Means
-🔗 github.com/Abishek2k04/Emoji_Recognition_RandomForest
 
 ## 📫 Connect With Me
 
